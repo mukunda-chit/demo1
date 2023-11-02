@@ -1,0 +1,18 @@
+/* *{
+    overflow-y: none;
+} */
+
+.logo{
+    width: 100%;
+    max-width: 250px;
+    height: 80px;
+}
+
+
+.MainPageContent{
+    overflow-y: auto;
+    
+}
+
+
+/* @media screen (max-width:) */

@@ -1,0 +1,20 @@
+.tableheader{
+    margin: 5px;
+    
+    width:100%;
+}
+
+.tablebtn {
+    margin: 0 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width:100%;
+}
+
+.tablecontainer{
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+    width:100%;
+}

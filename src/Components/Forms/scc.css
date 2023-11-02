@@ -1,0 +1,31 @@
+/* Add this CSS to your stylesheet */
+.contnt {
+    background-color: #f5f5f5; /* Background color for the input container */
+    padding: 20px; /* Add padding to the input container to separate it from the rest of the content */
+    border: 1px solid #ccc; /* Add a border for better visualization */
+    border-radius: 5px; /* Add rounded corners */
+    margin: 10px; /* Add margin to space it from other elements */
+  }
+  
+  /* Style individual form items (optional) */
+  .contnt .ant-form-item {
+    margin-bottom: 16px; /* Adjust the margin between form items as needed */
+  }
+  
+  /* Add more specific styles for form elements if required */
+  /* Add this CSS to your stylesheet */
+.GreenBorder {
+    border: 3px solid #00ff006d; /* Green border color */
+    padding: 10px;
+  }
+  /* custom.css */
+
+  
+
+  /* Add this CSS to your scc.css or your project's CSS */
+.ant-collapse-item .ant-collapse-header .anticon svg {
+  float: right; /* Move the arrow to the right */
+  transition: none; /* Disable the transition for immediate movement */
+}
+
+  

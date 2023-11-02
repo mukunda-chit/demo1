@@ -1,0 +1,46 @@
+.observation-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .observation-table th, .observation-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .observation-table th {
+    background-color: #f0f0f0;
+  }
+  
+  .observation-table th, .observation-table td {
+    font-weight: bold;
+  }
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  border: 1px solid #3498db;
+  background-color: #fff;
+  color: #3498db;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.pagination button:hover {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.pagination span {
+  padding: 10px;
+  margin: 0 5px;
+}
+
+  
